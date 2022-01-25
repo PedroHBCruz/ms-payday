@@ -34,11 +34,11 @@ build/
 
 ### Eclipse ###
 .metadata/
-/workshopmongo/
-/TreinoJava/
-/ProjetoMapeamentoRelacoes01/
-/ListAndBuy-Backend/
-/KFRefactor/
-/kashFlow/
-/EComerce-ListAndBuy/
-/AtividadePersistencia/
+workshopmongo/
+TreinoJava/
+ProjetoMapeamentoRelacoes01/
+ListAndBuy-Backend/
+KFRefactor/
+kashFlow/
+EComerce-ListAndBuy/
+AtividadePersistencia/
